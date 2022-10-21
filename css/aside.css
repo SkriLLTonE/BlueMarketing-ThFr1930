@@ -1,4 +1,6 @@
 .nav {
+    top: 0;
+    left: 0;
     position: fixed;
     width: 100px;
     height: 100vh;
